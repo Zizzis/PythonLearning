@@ -10,8 +10,8 @@ a = b
 b = x
 print (a,b)
 
-a = input('Add meg az első szót:')
-b = input('Add meg a második szót:')
+a = input('Add meg az első szót, ami eszedbe jut:')
+b = input('Add meg a második szót, ami eszedbe jut:')
 print(a,b)
 x = a
 a = b
